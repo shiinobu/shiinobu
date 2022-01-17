@@ -17,15 +17,12 @@
 </a>
 <a href="https://soundcloud.com/kurogami-aoi">
   <img align="left" alt="Vain Soundcloud" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/soundcloud.svg" />
-</a></p>
-
-
-
-
-<br />
-<br />
+</a>
 
 A **WEB & BOT TELEGRAM DEVELOPMENT** ***Enthusiast*** 🚀.
+</p>
+
+
  
 <p align="center">
   <img align="center" alt="GIF" src="https://i.postimg.cc/QtLnbHqK/Cheery-Separate-Goldeneye.gif" />
