@@ -1,18 +1,23 @@
-<h3 title="hehehe"> Hey 👋, I'm Firman Aprilian Sugiharto!</h3>
-<h4 title="hehehe"> I'am Knowing as Vain on Telegram!</h>
+<h2 align="center">
+    ──「 HEY 👋, I'M FIRMAN APRILIAN SUGIHARTO 」──
+</h2>
+<h3 align="center">
+    ──「 I'AM KNOWING AS VAIN ON TELEGRAM 」──
+</h3>
 
+<p align="center">
 <a href="https://t.me/saint_foire">
-  <img align="left" alt="Vain Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+  <img align="left" alt="Vain Telegram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/mas.firmann/">
-  <img align="left" alt="Vain Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Vain Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://web.facebook.com/vnn.qy/">
-  <img align="left" alt="Vain Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Vain Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://soundcloud.com/kurogami-aoi">
-  <img align="left" alt="Vain Soundcloud" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/soundcloud.svg" />
-</a>
+  <img align="left" alt="Vain Soundcloud" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/soundcloud.svg" />
+</a></p>
 
 
 
