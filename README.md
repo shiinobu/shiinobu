@@ -33,13 +33,14 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 <h3 align="center">
     ──「 ABOUT ME! 」──
 </h3>
-
-- 👨🏽‍💻 I’m learning PHP Framework and Python Programming Language.
-- 🌱 I’m a lazy people :smile:. 
-- 🤔 My interest lies in back end web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email 1 me at [kurogamiaoi1@gmail.com](mailto:kurogamiaoi1@gmail.com).
-- 📫 Email 2 me at [nightwishees@gmail.com](mailto:nightwishees@gmail.com).
+<ul style="list-style-type: square">
+    <li>👨🏽‍💻 I’m learning PHP Framework and Python Programming Language.</li>
+    <li>🌱 I’m a lazy people :smile:.</li>
+    <li>🤔 My interest lies in back end web development.</li>
+    <li>💬 Ask me about anything, I love to answer!</li>
+    <li>📫 Email 1 me at [kurogamiaoi1@gmail.com](mailto:kurogamiaoi1@gmail.com).</li>
+    <li>📫 Email 2 me at [nightwishees@gmail.com](mailto:nightwishees@gmail.com).</li>
+</ul>
 
 
 <h3 align="center">
@@ -54,8 +55,8 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shiinobu&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark&icon_color=fad000" alt="Shiinobu GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiinobu&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&dates=0ADD2F" alt="Shiinobu-Script" />
+<img src="https://github-readme-stats.vercel.app/api?username=shiinobu&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark&icon_color=fad000" alt="Shiinobu GitHub Stats"><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiinobu&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&dates=0ADD2F" alt="Shiinobu-Script" /><br>
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiinobu&count_private=true&theme=radical" alt="Shiinobu-Script" /></p>
 
 ----
