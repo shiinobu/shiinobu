@@ -30,7 +30,7 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
   <img align="center" alt="GIF" src="https://i.postimg.cc/QtLnbHqK/Cheery-Separate-Goldeneye.gif" />
 </p>
 
-<h3 align="center">
+<h3 align="left">
     ──「 ABOUT ME! 」──
 </h3>
 
@@ -42,9 +42,9 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 - 📫 Email 2 me at [nightwishees@gmail.com](mailto:nightwishees@gmail.com).
 
 
-
-**Languages and Tools:**  
-
+<h3 align="left">
+    ──「 PROGAMMING LANGUAGES AND TOOLS 」──
+</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
