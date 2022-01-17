@@ -62,8 +62,8 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shiinobu&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark&icon_color=fad000" alt="Shiinobu GitHub Stats"><br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiinobu&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&dates=0ADD2F" alt="Shiinobu-Script" /><br>
+<img src="https://github-readme-stats.vercel.app/api?username=shiinobu&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark&icon_color=fad000" alt="Shiinobu GitHub Stats"><br><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiinobu&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&dates=0ADD2F" alt="Shiinobu-Script" /><br><br>
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiinobu&count_private=true&theme=radical" alt="Shiinobu-Script" /></p>
 
 ----
