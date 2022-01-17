@@ -30,14 +30,18 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
   <img align="center" alt="GIF" src="https://i.postimg.cc/QtLnbHqK/Cheery-Separate-Goldeneye.gif" />
 </p>
 
-**About Me!**
+<h3 align="center">
+    ──「 ABOUT ME! 」──
+</h3>
 
+<p align="center">
 - 👨🏽‍💻 I’m learning PHP Framework and Python Programming Language.
 - 🌱 I’m a lazy people :smile:. 
 - 🤔 My interest lies in back end web development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email 1 me at [kurogamiaoi1@gmail.com](mailto:kurogamiaoi1@gmail.com).
 - 📫 Email 2 me at [nightwishees@gmail.com](mailto:nightwishees@gmail.com).
+</p>
 
 
 
