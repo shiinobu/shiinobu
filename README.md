@@ -38,12 +38,12 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
   <tbody>
     <tr valign="top">
       <td align="center">
-        👨🏽‍💻 I’m learning PHP Framework and Python Programming Language.
-        🌱 I’m a lazy people :smile:.
-        🤔 My interest lies in back end web development.
-        💬 Ask me about anything, I love to answer!
-        Email 1 me at : <a href="kurogamiaoi1@gmail.com">kurogamiaoi1@gmail.com</a>
-        Email 2 me at : <a href="nightwishees@gmail.com">nightwishees@gmail.com</a>
+        👨🏽‍💻 I’m learning PHP Framework and Python Programming Language.<br>
+        🌱 I’m a lazy people :smile:.<br>
+        🤔 My interest lies in back end web development.<br>
+        💬 Ask me about anything, I love to answer!<br>
+        Email 1 me at : <a href="kurogamiaoi1@gmail.com">kurogamiaoi1@gmail.com</a><br>
+        Email 2 me at : <a href="nightwishees@gmail.com">nightwishees@gmail.com</a><br>
       </td>
     </tr>
   </tbody>
