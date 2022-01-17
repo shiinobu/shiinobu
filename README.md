@@ -7,16 +7,16 @@
 
 <p align="center">
 <a href="https://t.me/saint_foire">
-  <img align="left" alt="Vain Telegram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+  <img align="center" alt="Vain Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/mas.firmann/">
-  <img align="left" alt="Vain Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Vain Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://web.facebook.com/vnn.qy/">
-  <img align="left" alt="Vain Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="center" alt="Vain Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://soundcloud.com/kurogami-aoi">
-  <img align="left" alt="Vain Soundcloud" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/soundcloud.svg" />
+  <img align="center" alt="Vain Soundcloud" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/soundcloud.svg" />
 </a>
 
 A **WEB & BOT TELEGRAM DEVELOPMENT** ***Enthusiast*** 🚀.
