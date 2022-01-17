@@ -24,11 +24,11 @@
 A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 </p>
 
-
  
 <p align="center">
   <img align="center" alt="GIF" src="https://i.postimg.cc/QtLnbHqK/Cheery-Separate-Goldeneye.gif" />
 </p>
+
 
 <h3 align="center">
     ──「 ABOUT ME! 」──
@@ -39,21 +39,21 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
     <tr valign="top">
       <td align="center">
         <ul>
-            <li>Coffee</li>
-            <li>Tea</li>
-            <li>Coca Cola</li>
+            <li>👨🏽‍💻 I’m learning PHP Framework and Python Programming Language.</li>
+            <li>🌱 I’m a lazy people :smile:. </li>
+            <li>🤔 My interest lies in back end web development.</li>
+            <li>💬 Ask me about anything, I love to answer!</li>
+            <li>
+                Email 1 me at : <a href="kurogamiaoi1@gmail.com">kurogamiaoi1@gmail.com</a>
+            </li>
+            <li>
+                Email 2 me at : <a href="nightwishees@gmail.com">nightwishees@gmail.com</a>
+            </li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
-
-- 👨🏽‍💻 I’m learning PHP Framework and Python Programming Language.
-- 🌱 I’m a lazy people :smile:. 
-- 🤔 My interest lies in back end web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email 1 me at [kurogamiaoi1@gmail.com](mailto:kurogamiaoi1@gmail.com).
-- 📫 Email 2 me at [nightwishees@gmail.com](mailto:nightwishees@gmail.com).
 
 
 <h3 align="center">
