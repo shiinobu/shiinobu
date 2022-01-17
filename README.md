@@ -6,21 +6,18 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/saint_foire" >
-  <img align="center" alt="Vain Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" style="float: left"/>
-</a>
-
-<a href="https://www.instagram.com/mas.firmann/">
-  <img align="center" alt="Vain Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://web.facebook.com/vnn.qy/">
-  <img align="center" alt="Vain Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<a href="https://soundcloud.com/kurogami-aoi">
-  <img align="center" alt="Vain Soundcloud" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/soundcloud.svg" />
-</a>
+    <a href="https://t.me/saint_foire"> 
+        <img src="https://img.shields.io/badge/Vain-User-green?style=for-the-badge&logo=telegram" alt="Vain Telegram" /> 
+    </a>
+    <a href="https://www.instagram.com/mas.firmann/"> 
+        <img src="https://img.shields.io/badge/Vain-User-green?style=for-the-badge&logo=instagram" alt="Vain Instagram" /> 
+    </a>
+    <a href="https://web.facebook.com/vnn.qy/"> 
+        <img src="https://img.shields.io/badge/Vain-User-green?style=for-the-badge&logo=facebook" alt="Vain Facebook" /> 
+    </a>
+    <a href="https://soundcloud.com/kurogami-aoi"> 
+        <img src="https://img.shields.io/badge/Vain-User-green?style=for-the-badge&logo=soundcloud" alt="Vain Soundcloud" /> 
+    </a>
 </p>
 
 <p align="center">
