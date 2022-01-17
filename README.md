@@ -30,7 +30,7 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
   <img align="center" alt="GIF" src="https://i.postimg.cc/QtLnbHqK/Cheery-Separate-Goldeneye.gif" />
 </p>
 
-<h3 align="left">
+<h3 align="center">
     ──「 ABOUT ME! 」──
 </h3>
 
@@ -42,21 +42,23 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 - 📫 Email 2 me at [nightwishees@gmail.com](mailto:nightwishees@gmail.com).
 
 
-<h3 align="left">
+<h3 align="center">
     ──「 PROGAMMING LANGUAGES AND TOOLS 」──
 </h3>
 
+<p align="center">
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></p>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shiinobu&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark&icon_color=fad000" alt="Shiinobu GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiinobu&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&dates=0ADD2F" alt="Shiinobu-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiinobu&count_private=true&theme=radical" alt="Shiinobu-Script" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiinobu&count_private=true&theme=radical" alt="Shiinobu-Script" /></p>
 
 ----
-Credit: [Shiinobu-Script](https://github.com/shiinobu)
+Credit: [Shiinobu-Project](https://github.com/shiinobu)
 
-Last Edited on: 04/01/2021
+Last Edited on: 17/01/2022
