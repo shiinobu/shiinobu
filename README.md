@@ -22,8 +22,9 @@
 
 A **WEB & BOT TELEGRAM DEVELOPMENT** ***Enthusiast*** 🚀.
  
-
+<p align="center">
   <img align="center" alt="GIF" src="https://i.postimg.cc/QtLnbHqK/Cheery-Separate-Goldeneye.gif" />
+</p>
 
 **About Me!**
 
