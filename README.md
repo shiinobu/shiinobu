@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://t.me/saint_foire" >
-  <img align="center" style="padding-right: 50px" alt="Vain Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+  <img align="center" style="padding-left: 50px" alt="Vain Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
 </a>
 
 <a href="https://www.instagram.com/mas.firmann/" >
