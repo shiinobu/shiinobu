@@ -5,9 +5,9 @@
     ──「 I'AM KNOWING AS VAIN ON TELEGRAM 」──
 </h3>
 
-<p align="center" style="padding-right: 150px">
+<p align="center">
 <a href="https://t.me/saint_foire" >
-  <img align="center" alt="Vain Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+  <img align="center" alt="Vain Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" style="float: left"/>
 </a>
 
 <a href="https://www.instagram.com/mas.firmann/">
