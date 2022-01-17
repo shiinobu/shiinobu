@@ -6,15 +6,15 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/saint_foire">
+<a href="https://t.me/saint_foire" style="padding-right: 50px">
   <img align="center" alt="Vain Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
 </a>
 
-<a href="https://www.instagram.com/mas.firmann/">
+<a href="https://www.instagram.com/mas.firmann/" style="padding-right: 50px">
   <img align="center" alt="Vain Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://web.facebook.com/vnn.qy/">
+<a href="https://web.facebook.com/vnn.qy/" style="padding-right: 50px">
   <img align="center" alt="Vain Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
