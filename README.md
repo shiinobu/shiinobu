@@ -5,21 +5,23 @@
     ──「 I'AM KNOWING AS VAIN ON TELEGRAM 」──
 </h3>
 
+<p align="center" style="padding-right: 150px">
 <a href="https://t.me/saint_foire" >
-  <img align="center" style="padding-right: 50px" alt="Vain Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+  <img align="center" alt="Vain Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
 </a>
 
-<a href="https://www.instagram.com/mas.firmann/" >
-  <img align="center" style="padding-right: 50px" alt="Vain Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/mas.firmann/">
+  <img align="center" alt="Vain Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <a href="https://web.facebook.com/vnn.qy/">
-  <img align="center" style="padding-right: 50px" alt="Vain Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="center" alt="Vain Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <a href="https://soundcloud.com/kurogami-aoi">
   <img align="center" alt="Vain Soundcloud" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/soundcloud.svg" />
 </a>
+</p>
 
 <p align="center">
 A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
