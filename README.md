@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-A **WEB & BOT TELEGRAM DEVELOPMENT** ***Enthusiast*** 🚀.
+A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 </p>
 
 
