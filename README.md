@@ -33,14 +33,17 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 <h3 align="center">
     ──「 ABOUT ME! 」──
 </h3>
-<ul style="list-style-type: square">
-    <li>👨🏽‍💻 I’m learning PHP Framework and Python Programming Language.</li>
-    <li>🌱 I’m a lazy people :smile:.</li>
-    <li>🤔 My interest lies in back end web development.</li>
-    <li>💬 Ask me about anything, I love to answer!</li>
-    <li>📫 Email 1 me at [kurogamiaoi1@gmail.com](mailto:kurogamiaoi1@gmail.com).</li>
-    <li>📫 Email 2 me at [nightwishees@gmail.com](mailto:nightwishees@gmail.com).</li>
-</ul>
+
+<p align="center">
+    <ul style="list-style-type: square">
+        <li>👨🏽‍💻 I’m learning PHP Framework and Python Programming Language.</li>
+        <li>🌱 I’m a lazy people :smile:.</li>
+        <li>🤔 My interest lies in back end web development.</li>
+        <li>💬 Ask me about anything, I love to answer!</li>
+        <li>📫 Email 1 me at [kurogamiaoi1@gmail.com](mailto:kurogamiaoi1@gmail.com).</li>
+        <li>📫 Email 2 me at [nightwishees@gmail.com](mailto:nightwishees@gmail.com).</li>
+    </ul>
+</p>
 
 
 <h3 align="center">
