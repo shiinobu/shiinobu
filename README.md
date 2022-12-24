@@ -55,12 +55,12 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 </h3>
 
 <p align="center">
-<code><a href="https://www.python.org/"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href="https://www.php.net/"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></a></code>
-<code><a href="https://www.laravel.com/"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></a></code>
-<code><a href="https://www.mysql.com/"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></code>
-<code><a href="https://www.git-scm.com/"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href="https://www.reactjs.org/"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code></p>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
+<code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></a></code>
+<code><a href="https://www.laravel.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></code>
+<code><a href="https://www.git-scm.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
+<code><a href="https://www.reactjs.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code></p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shiinobu&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark&icon_color=fad000" alt="Shiinobu GitHub Stats"><br><br>
