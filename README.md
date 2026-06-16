@@ -65,9 +65,9 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shiinobu&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark&icon_color=fad000" alt="Shiinobu GitHub Stats"><br><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiinobu&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&dates=0ADD2F" alt="Shiinobu-Script" /><br><br>
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiinobu&theme=radical" alt="Shiinobu-Script" /></p>
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiinobu&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8" alt="Shiinobu-Script" /></p>
 
 ----
 Credit: [Shiinobu-Project](https://github.com/shiinobu)
 
-Last Edited on: 17/01/2022
+Last Edited on: 17/06/2026
