@@ -1,6 +1,6 @@
-<p align="center"><strong><font size="6">Hi, I'm Firman Aprilian Sugiharto</font></strong></p>
+<p align="center"><strong><font size="7">Hi, I'm Firman Aprilian Sugiharto</font></strong></p>
 
-<p align="center"><strong><font size="5">Backend Developer</font></strong></p>
+<p align="center"><strong><font size="6">Backend Developer</font></strong></p>
 
 <p align="center">
   <a href="#contact">Email</a> · <a href="#contact">Phone</a> · <a href="#contact">GitHub</a>
@@ -8,7 +8,7 @@
 
 ---
 
-<p><strong><font size="5">About Me</font></strong></p>
+<p><strong><font size="6">About Me</font></strong></p>
 
 <p align="justify">I'm a Backend Developer focused on building API-driven applications and backend systems. My primary stack is <strong>Go</strong> with experience building REST APIs, authentication and authorization, database-backed services, background processes, and realtime features using WebSocket. I focus on building backend systems with clear architecture, reliable data handling, and maintainable code.</p>
 
@@ -22,7 +22,7 @@
 
 ---
 
-<p><strong><font size="5">Featured Projects</font></strong></p>
+<p><strong><font size="6">Featured Projects</font></strong></p>
 
 ### 🛰️ Device Monitoring System
 
@@ -71,7 +71,7 @@
 
 ---
 
-<p><strong><font size="5">Tech Stack</font></strong></p>
+<p><strong><font size="6">Tech Stack</font></strong></p>
 
 ### Backend
 
@@ -103,7 +103,7 @@
 ---
 
 <a id="contact"></a>
-<p><strong><font size="5">Contact</font></strong></p>
+<p><strong><font size="6">Contact</font></strong></p>
 
 - **Email:** [firman.apriliann@gmail.com](mailto:firman.apriliann@gmail.com)
 - **Phone:** [+6285117000255](tel:+6285117000255)
