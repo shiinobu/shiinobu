@@ -1,73 +1,126 @@
-<h2 align="center">
-    ──「 HEY 👋, I'M FIRMAN APRILIAN SUGIHARTO 」──
-</h2>
-<h3 align="center">
-    ──「 I'AM KNOWING AS VAIN ON TELEGRAM 」──
-</h3>
+<h1 align="center">Hi, I'm Firman Aprilian S.</h1>
 
 <p align="center">
-    <a href="https://t.me/saint_foire"> 
-        <img src="https://img.shields.io/badge/My-Telegram-blue?style=for-the-badge&logo=telegram" alt="Vain Telegram" /> 
-    </a>
-    <a href="https://www.instagram.com/mas.firmann/"> 
-        <img src="https://img.shields.io/badge/My-Instagram-red?style=for-the-badge&logo=instagram" alt="Vain Instagram" /> 
-    </a>
-    <a href="https://web.facebook.com/vnn.qy/"> 
-        <img src="https://img.shields.io/badge/My-Facebook-darkblue?style=for-the-badge&logo=facebook" alt="Vain Facebook" /> 
-    </a>
-    <a href="https://soundcloud.com/kurogami-aoi"> 
-        <img src="https://img.shields.io/badge/My-Soundcloud-orange?style=for-the-badge&logo=soundcloud" alt="Vain Soundcloud" /> 
-    </a>
+  <strong>Backend Developer</strong> focused on Go, REST APIs, databases, and realtime systems.
 </p>
 
 <p align="center">
-A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
+  <a href="mailto:firman.apriliann@gmail.com">Email</a> ·
+  <a href="tel:+6285117000255">Phone</a> ·
+  <a href="https://github.com/shiinobu">GitHub</a>
 </p>
 
- 
-<p align="center">
-  <img align="center" alt="GIF" src="https://i.postimg.cc/QtLnbHqK/Cheery-Separate-Goldeneye.gif" />
+---
+
+## About Me
+
+I'm a Backend Developer focused on building API-driven applications and backend systems.
+
+My primary stack is **Go**, with experience building REST APIs, authentication and authorization, database-backed services, background processes, and realtime features using WebSocket.
+
+I also have experience with **PHP/Laravel, Python automation, React, and Next.js**.
+
+### Core Focus
+
+- Backend development with Go
+- REST API design and implementation
+- PostgreSQL and MySQL
+- Authentication & authorization with JWT
+- Realtime communication with WebSocket
+- Docker & Docker Compose
+- GitHub Actions / CI
+- Layered backend architecture
+
+---
+
+## Featured Projects
+
+### 1. Device Monitoring System
+
+**Go · PostgreSQL · WebSocket · JWT · Docker · Next.js · TypeScript**
+
+A realtime device monitoring system with device registration, heartbeat processing, automatic online/offline detection, WebSocket updates, notifications, reporting, CSV export, and a device simulator.
+
+**Highlights:**
+- Realtime device status monitoring
+- Heartbeat processing
+- Background offline detection
+- WebSocket communication
+- REST API
+- PostgreSQL persistence
+- Docker Compose development environment
+
+[View Repository](https://github.com/shiinobu/device-monitoring-system)
+
+### 2. Manufacture System API
+
+**Go · Gin · MySQL · JWT**
+
+A backend API for a manufacturing-oriented application demonstrating authentication, CRUD operations, layered architecture, database integration, middleware, and JWT-based access control.
+
+[View Repository](https://github.com/shiinobu/manufacture-system-api)
+
+### 3. Disbursement API
+
+**Go · Gin · MySQL · GORM · JWT · bcrypt · Docker**
+
+A REST API for managing fund transfer requests with authentication, role-based authorization, transaction status workflows, fee calculation, pagination, filtering, search, and CSV export.
+
+**Business flow:**
+
+`PENDING → APPROVED / REJECTED`
+
+[View Repository](https://github.com/shiinobu/disbursement-api)
+
+### 4. Tourism Management API
+
+**Laravel · PHP · MySQL · React · REST API**
+
+A full-stack CRUD application for managing tourism destinations, including Laravel REST APIs, Eloquent ORM, API Resources, image upload and replacement, validation, MySQL persistence, and React frontend integration.
+
+[View Repository](https://github.com/shiinobu/tourism-management-api)
+
+---
+
+## Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square" alt="Gin" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
+### Database & Infrastructure
 
-<h3 align="center">
-    ──「 ABOUT ME! 」──
-</h3>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-<table align="center" style="table-layout: fixed; width: 100%;">
-  <tbody>
-    <tr valign="top">
-      <td align="center">
-        👨🏽‍💻 I’m learning PHP Framework and Python Programming Language.<br>
-        🌱 I’m a lazy people :smile:.<br>
-        🤔 My interest lies in back end web development.<br>
-        💬 Ask me about anything, I love to answer!<br>
-        Email 1 me at : <a href="kurogamiaoi1@gmail.com">kurogamiaoi1@gmail.com</a><br>
-        Email 2 me at : <a href="nightwishees@gmail.com">nightwishees@gmail.com</a><br>
-      </td>
-    </tr>
-  </tbody>
-</table>
+### Frontend
 
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-<h3 align="center">
-    ──「 PROGAMMING LANGUAGES AND TOOLS 」──
-</h3>
+---
 
-<p align="center">
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></a></code>
-<code><a href="https://www.laravel.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></code>
-<code><a href="https://www.git-scm.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href="https://www.reactjs.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code></p>
+## Contact
+
+- **Email:** [firman.apriliann@gmail.com](mailto:firman.apriliann@gmail.com)
+- **Phone:** [+62 851-1700-0255](tel:+6285117000255)
+- **GitHub:** [github.com/shiinobu](https://github.com/shiinobu)
+
+---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shiinobu&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark&icon_color=fad000" alt="Shiinobu GitHub Stats"><br><br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiinobu&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&dates=0ADD2F" alt="Shiinobu-Script" /><br><br>
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiinobu&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8" alt="Shiinobu-Script" /></p>
-
-----
-Credit: [Shiinobu-Project](https://github.com/shiinobu)
-
-Last Edited on: 17/06/2026
+  <sub>Backend Developer · Go · REST API · PostgreSQL · MySQL · Docker · WebSocket</sub>
+</p>
