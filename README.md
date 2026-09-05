@@ -14,11 +14,11 @@
 
 ### Core Skills
 
-- **Backend:** Go, Gin, REST API, JWT, WebSocket
+- **Primary Backend:** Go, Gin, REST API, JWT, WebSocket
 - **Database:** PostgreSQL, MySQL, GORM, Eloquent
 - **Infrastructure:** Docker, Docker Compose, GitHub Actions
+- **Secondary:** PHP, Laravel, Python automation
 - **Frontend:** React, Next.js, TypeScript
-- **Other:** PHP, Laravel, Python automation
 
 ---
 
