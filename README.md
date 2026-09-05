@@ -2,9 +2,11 @@
 
 <p align="center"><strong><font size="5">Backend Developer</font></strong></p>
 
-<p align="center"> <a href="#contact">Email</a> · <a href="#contact">Phone</a> · <a href="#contact">GitHub</a> </p>
+<p align="center">
+  <a href="#contact">Email</a> · <a href="#contact">Phone</a> · <a href="#contact">GitHub</a>
+</p>
 
-
+---
 
 <p><strong><font size="5">About Me</font></strong></p>
 
@@ -18,7 +20,7 @@
 - **Frontend:** React, Next.js, TypeScript
 - **Other:** PHP, Laravel, Python automation
 
-
+---
 
 <p><strong><font size="5">Featured Projects</font></strong></p>
 
@@ -38,8 +40,6 @@
 - Docker Compose development environment
 
 → [View Repository](https://github.com/shiinobu/device-monitoring-system)
-
-
 
 ### 🏭 Manufacture System API
 
@@ -69,7 +69,7 @@
 
 → [View Repository](https://github.com/shiinobu/tourism-management-api)
 
-
+---
 
 <p><strong><font size="5">Tech Stack</font></strong></p>
 
@@ -100,7 +100,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-
+---
 
 <a id="contact"></a>
 <p><strong><font size="5">Contact</font></strong></p>
@@ -109,7 +109,7 @@
 - **Phone:** [+6285117000255](tel:+6285117000255)
 - **GitHub:** [github.com/shiinobu](https://github.com/shiinobu)
 
-
+---
 
 <p align="center">
   <strong>Backend Developer · Go · REST API · PostgreSQL · MySQL · Docker · WebSocket</strong>
