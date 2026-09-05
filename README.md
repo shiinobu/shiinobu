@@ -1,14 +1,12 @@
-<h1 align="center">Hi, I'm Firman Aprilian Sugiharto</h1>
+<p align="center"><strong><font size="6">Hi, I'm Firman Aprilian Sugiharto</font></strong></p>
 
-<h2 align="center">Backend Developer</h2>
+<p align="center"><strong><font size="5">Backend Developer</font></strong></p>
 
-<p align="center">
-  <a href="#contact">Email</a> · <a href="#contact">Phone</a> · <a href="#contact">GitHub</a>
-</p>
+<p align="center"> <a href="#contact">Email</a> · <a href="#contact">Phone</a> · <a href="#contact">GitHub</a> </p>
 
----
 
-## About Me
+
+<p><strong><font size="5">About Me</font></strong></p>
 
 <p align="justify">I'm a Backend Developer focused on building API-driven applications and backend systems. My primary stack is <strong>Go</strong> with experience building REST APIs, authentication and authorization, database-backed services, background processes, and realtime features using WebSocket. I focus on building backend systems with clear architecture, reliable data handling, and maintainable code.</p>
 
@@ -20,9 +18,9 @@
 - **Frontend:** React, Next.js, TypeScript
 - **Other:** PHP, Laravel, Python automation
 
----
 
-## Featured Projects
+
+<p><strong><font size="5">Featured Projects</font></strong></p>
 
 ### 🛰️ Device Monitoring System
 
@@ -41,7 +39,7 @@
 
 → [View Repository](https://github.com/shiinobu/device-monitoring-system)
 
----
+
 
 ### 🏭 Manufacture System API
 
@@ -71,9 +69,9 @@
 
 → [View Repository](https://github.com/shiinobu/tourism-management-api)
 
----
 
-## Tech Stack
+
+<p><strong><font size="5">Tech Stack</font></strong></p>
 
 ### Backend
 
@@ -102,15 +100,16 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
----
 
-## Contact
+
+<a id="contact"></a>
+<p><strong><font size="5">Contact</font></strong></p>
 
 - **Email:** [firman.apriliann@gmail.com](mailto:firman.apriliann@gmail.com)
 - **Phone:** [+6285117000255](tel:+6285117000255)
 - **GitHub:** [github.com/shiinobu](https://github.com/shiinobu)
 
----
+
 
 <p align="center">
   <strong>Backend Developer · Go · REST API · PostgreSQL · MySQL · Docker · WebSocket</strong>
