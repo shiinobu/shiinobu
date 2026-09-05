@@ -1,7 +1,13 @@
-<h1 align="center">Hi, I'm Firman Aprilian S.</h1>
+<h1 align="center">Firman Aprilian S.</h1>
+
+<h2 align="center">Backend Developer</h2>
 
 <p align="center">
-  <strong>Backend Developer</strong> focused on Go, REST APIs, databases, and realtime systems.
+  Go • REST API • PostgreSQL • MySQL • Docker • WebSocket
+</p>
+
+<p align="center">
+  Building API-driven backend systems and realtime applications.
 </p>
 
 <p align="center">
@@ -14,98 +20,92 @@
 
 ## About Me
 
-I'm a Backend Developer focused on building API-driven applications and backend systems.
+I'm a Backend Developer focused on building reliable, API-driven applications and backend systems.
 
-My primary stack is **Go**, with experience building REST APIs, authentication and authorization, database-backed services, background processes, and realtime features using WebSocket.
+My primary stack is **Go**, with experience in REST API development, authentication and authorization, database-backed services, background processes, and realtime communication using WebSocket.
 
 I also have experience with **PHP/Laravel, Python automation, React, and Next.js**.
 
-### Core Focus
+### Core Skills
 
-- Backend development with Go
-- REST API design and implementation
-- PostgreSQL and MySQL
-- Authentication & authorization with JWT
-- Realtime communication with WebSocket
-- Docker & Docker Compose
-- GitHub Actions / CI
-- Layered backend architecture
+- **Backend:** Go, Gin, REST API, JWT, WebSocket
+- **Database:** PostgreSQL, MySQL, GORM, Eloquent
+- **Infrastructure:** Docker, Docker Compose, GitHub Actions
+- **Frontend:** React, Next.js, TypeScript
+- **Other:** PHP, Laravel, Python automation
 
 ---
 
 ## Featured Projects
 
-### 1. Device Monitoring System
+### 🛰️ Device Monitoring System
 
 **Go · PostgreSQL · WebSocket · JWT · Docker · Next.js · TypeScript**
 
-A realtime device monitoring system with device registration, heartbeat processing, automatic online/offline detection, WebSocket updates, notifications, reporting, CSV export, and a device simulator.
+Realtime device monitoring system with device registration, heartbeat processing, automatic online/offline detection, WebSocket updates, notifications, reporting, CSV export, and a device simulator.
 
-**Highlights:**
+**Key features:**
 - Realtime device status monitoring
-- Heartbeat processing
-- Background offline detection
+- Heartbeat processing and offline detection
 - WebSocket communication
 - REST API
 - PostgreSQL persistence
-- Docker Compose development environment
+- Docker Compose environment
 
-[View Repository](https://github.com/shiinobu/device-monitoring-system)
+→ [View Repository](https://github.com/shiinobu/device-monitoring-system)
 
-### 2. Manufacture System API
+---
+
+### 🏭 Manufacture System API
 
 **Go · Gin · MySQL · JWT**
 
-A backend API for a manufacturing-oriented application demonstrating authentication, CRUD operations, layered architecture, database integration, middleware, and JWT-based access control.
+Backend API for a manufacturing-oriented application demonstrating authentication, CRUD operations, layered architecture, database integration, middleware, and JWT-based access control.
 
-[View Repository](https://github.com/shiinobu/manufacture-system-api)
+→ [View Repository](https://github.com/shiinobu/manufacture-system-api)
 
-### 3. Disbursement API
+---
+
+### 💰 Disbursement API
 
 **Go · Gin · MySQL · GORM · JWT · bcrypt · Docker**
 
-A REST API for managing fund transfer requests with authentication, role-based authorization, transaction status workflows, fee calculation, pagination, filtering, search, and CSV export.
+REST API for managing fund transfer requests with authentication, role-based authorization, transaction workflows, fee calculation, pagination, filtering, search, and CSV export.
 
 **Business flow:**
 
 `PENDING → APPROVED / REJECTED`
 
-[View Repository](https://github.com/shiinobu/disbursement-api)
-
-### 4. Tourism Management API
-
-**Laravel · PHP · MySQL · React · REST API**
-
-A full-stack CRUD application for managing tourism destinations, including Laravel REST APIs, Eloquent ORM, API Resources, image upload and replacement, validation, MySQL persistence, and React frontend integration.
-
-[View Repository](https://github.com/shiinobu/tourism-management-api)
+→ [View Repository](https://github.com/shiinobu/disbursement-api)
 
 ---
 
-## Tech Stack
+### 🌐 Tourism Management API
 
-### Backend
+**Laravel · PHP · MySQL · React · REST API**
+
+Full-stack tourism management application with Laravel REST APIs, Eloquent ORM, API Resources, image upload and replacement, validation, MySQL persistence, and React frontend integration.
+
+→ [View Repository](https://github.com/shiinobu/tourism-management-api)
+
+---
+
+## Technology Stack
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square" alt="Gin" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</p>
-
-### Database & Infrastructure
-
-<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/WebSocket-333333?style=flat-square" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square" alt="JWT" />
 </p>
 
-### Frontend
-
 <p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -115,12 +115,11 @@ A full-stack CRUD application for managing tourism destinations, including Larav
 
 ## Contact
 
-- **Email:** [firman.apriliann@gmail.com](mailto:firman.apriliann@gmail.com)
-- **Phone:** [+62 851-1700-0255](tel:+6285117000255)
-- **GitHub:** [github.com/shiinobu](https://github.com/shiinobu)
+**Email:** [firman.apriliann@gmail.com](mailto:firman.apriliann@gmail.com)  
+**Phone:** [+6285117000255](tel:+6285117000255)
 
 ---
 
 <p align="center">
-  <sub>Backend Developer · Go · REST API · PostgreSQL · MySQL · Docker · WebSocket</sub>
+  <strong>Backend Developer · Go · REST API · PostgreSQL · MySQL · Docker · WebSocket</strong>
 </p>
