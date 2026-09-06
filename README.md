@@ -3,7 +3,7 @@
 <p align="center"><strong><font size="6">Backend Developer</font></strong></p>
 
 <p align="center">
-  <a href="#contact">Email</a> · <a href="#contact">Phone</a> · <a href="#contact">GitHub</a>
+  → <a href="#contact"><strong>CONTACT ME</strong></a> ←
 </p>
 
 ---
