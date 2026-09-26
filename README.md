@@ -77,6 +77,8 @@ Fullstack Engineer building secure, scalable and maintainable applications. I ha
 
 #### <div align="center">Device Monitoring System</div>
 
+---
+
 Realtime device availability monitoring with a Go backend and a Next.js dashboard. A device is marked `OFFLINE` after 30 seconds without a heartbeat.
 
 <p align="left">
@@ -89,9 +91,7 @@ Realtime device availability monitoring with a Go backend and a Next.js dashboar
   <img alt="Infrastructure: Docker" src="https://img.shields.io/badge/Infra-Docker-2496ED?style=flat-square&labelColor=1F2328" />
 </p>
 
----
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/shiinobu/device-monitoring-system"><img alt="Device Monitoring System repository" src="https://img.shields.io/badge/Repository-24292E?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://firman-aprilian.vercel.app/projects/device-monitoring-system"><img alt="Device Monitoring System case study" src="https://img.shields.io/badge/Case_study-00ADD8?style=flat-square" /></a>
 </p>
@@ -100,6 +100,8 @@ Realtime device availability monitoring with a Go backend and a Next.js dashboar
 <td width="50%" valign="top">
 
 #### <div align="center">Disbursement API</div>
+
+---
 
 REST API for fund disbursement requests, built around business rules rather than plain CRUD. Processed requests are final: a second attempt returns `409 Conflict`.
 
@@ -112,9 +114,7 @@ REST API for fund disbursement requests, built around business rules rather than
   <img alt="Infrastructure: Docker" src="https://img.shields.io/badge/Infra-Docker-2496ED?style=flat-square&labelColor=1F2328" />
 </p>
 
----
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/shiinobu/disbursement-api"><img alt="Disbursement API repository" src="https://img.shields.io/badge/Repository-24292E?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://firman-aprilian.vercel.app/projects/disbursement-api"><img alt="Disbursement API case study" src="https://img.shields.io/badge/Case_study-00ADD8?style=flat-square" /></a>
 </p>
@@ -126,6 +126,8 @@ REST API for fund disbursement requests, built around business rules rather than
 
 #### <div align="center">Manufacture System API</div>
 
+---
+
 REST API for users, customers, suppliers, products and purchase transactions, behind JWT (HS256) authentication middleware.
 
 <p align="left">
@@ -136,9 +138,7 @@ REST API for users, customers, suppliers, products and purchase transactions, be
   <img alt="CI: GitHub Actions" src="https://img.shields.io/badge/CI-Actions-2088FF?style=flat-square&labelColor=1F2328" />
 </p>
 
----
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/shiinobu/manufacture-system-api"><img alt="Manufacture System API repository" src="https://img.shields.io/badge/Repository-24292E?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
@@ -146,6 +146,8 @@ REST API for users, customers, suppliers, products and purchase transactions, be
 <td width="50%" valign="top">
 
 #### <div align="center">Tourism Management API</div>
+
+---
 
 Laravel 8 REST API with a React 17 frontend for managing tourism destinations, with validated image uploads.
 
@@ -156,9 +158,7 @@ Laravel 8 REST API with a React 17 frontend for managing tourism destinations, w
   <img alt="Database: MySQL" src="https://img.shields.io/badge/DB-MySQL-4479A1?style=flat-square&labelColor=1F2328" />
 </p>
 
----
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/shiinobu/tourism-management-api"><img alt="Tourism Management API repository" src="https://img.shields.io/badge/Repository-24292E?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
