@@ -75,7 +75,7 @@ Fullstack Engineer building secure, scalable and maintainable applications. I ha
 <tr>
 <td width="50%" valign="top">
 
-<div align="center"><h5>Device Monitoring System</h></div>
+<h5>Device Monitoring System</h>
 
 Realtime device availability monitoring with a Go backend and a Next.js dashboard. A device is marked `OFFLINE` after 30 seconds without a heartbeat.
 
