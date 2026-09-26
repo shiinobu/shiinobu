@@ -4,7 +4,7 @@
   <img src="assets/banner.svg" alt="Firman Aprilian Sugiharto" width="100%" />
 </p>
 
-### `{ about_me }`
+### <h3>`{ about_me }`</h3>
 
 Fullstack Engineer building secure, scalable and maintainable applications. I have spent 3+ years building and maintaining web applications for clients and internal teams, including **CRM** and **POS** systems in **PHP** and **MySQL**.
 
@@ -14,7 +14,7 @@ On my own projects I write backends in **Go** and frontends in **React** and **N
 - **Scalable:** paginated, searchable and filterable list endpoints, and realtime updates pushed over WebSocket rather than page reloads.
 - **Maintainable:** a layered code structure, a unit-tested JWT helper, and `go test` and `go vet` running in GitHub Actions.
 
-### `{ stack }`
+### <h3>`{ stack }`</h3>
 
 <table>
   <tr>
@@ -67,7 +67,7 @@ On my own projects I write backends in **Go** and frontends in **React** and **N
   </tr>
 </table>
 
-### `{ projects }`
+### <h3>`{ projects }`</h3>
 
 <table>
 <tr>
@@ -227,7 +227,7 @@ database/migrations/                        create_wisata_table
 </tr>
 </table>
 
-### `{ connect }`
+### <h3>`{ connect }`</h3>
 
 <p align="center">
   <a href="https://firman-aprilian.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-00ADD8?style=for-the-badge" /></a>
