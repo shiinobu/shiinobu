@@ -75,7 +75,7 @@ Fullstack Engineer building secure, scalable and maintainable applications. I ha
 <tr>
 <td width="50%" valign="top">
 
-#### Device Monitoring System
+<div align="center"><h5>Device Monitoring System</h></div>
 
 Realtime device availability monitoring with a Go backend and a Next.js dashboard. A device is marked `OFFLINE` after 30 seconds without a heartbeat.
 
@@ -97,7 +97,7 @@ Realtime device availability monitoring with a Go backend and a Next.js dashboar
 </td>
 <td width="50%" valign="top">
 
-#### Disbursement API
+<div align="center"><h5>Disbursement API</h></div>
 
 REST API for fund disbursement requests, built around business rules rather than plain CRUD. Processed requests are final: a second attempt returns `409 Conflict`.
 
@@ -120,7 +120,7 @@ REST API for fund disbursement requests, built around business rules rather than
 <tr>
 <td width="50%" valign="top">
 
-#### Manufacture System API
+<div align="center"><h5>Manufacture System API</h></div>
 
 REST API for users, customers, suppliers, products and purchase transactions, behind JWT (HS256) authentication middleware.
 
@@ -139,7 +139,7 @@ REST API for users, customers, suppliers, products and purchase transactions, be
 </td>
 <td width="50%" valign="top">
 
-#### Tourism Management API
+<div align="center"><h5>Tourism Management API</h></div>
 
 Laravel 8 REST API with a React 17 frontend for managing tourism destinations, with validated image uploads.
 
