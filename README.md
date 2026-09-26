@@ -1,25 +1,27 @@
 <div align="justify">
 
 <p align="center">
+  <img src="assets/typing-words.svg" alt="Secure. Scalable. Maintainable. Open to Fullstack Roles." width="460" height="48" />
+</p>
+
+<p align="center">
   <img src="assets/banner.svg" alt="Firman Aprilian Sugiharto" width="100%" />
 </p>
 
-### <h3>`{ about_me }`</h3>
+### `{ about_me }`
 
-Fullstack Engineer building secure, scalable and maintainable applications. I have spent 3+ years building and maintaining web applications for clients and internal teams, including **CRM** and **POS** systems in **PHP** and **MySQL**.
-
-On my own projects I write backends in **Go** and frontends in **React** and **Next.js**, aiming for the same three things in every one:
+Fullstack Engineer building secure, scalable and maintainable applications. I have spent 3+ years building and maintaining web applications for clients and internal teams, including **CRM** and **POS** systems in **PHP** and **MySQL**. On my own projects I write backends in **Go** and frontends in **React** and **Next.js**, aiming for the same three things in every one:
 
 - **Secure:** JWT authentication, bcrypt password hashing, role-based access control and validated file uploads.
 - **Scalable:** paginated, searchable and filterable list endpoints, and realtime updates pushed over WebSocket rather than page reloads.
 - **Maintainable:** a layered code structure, a unit-tested JWT helper, and `go test` and `go vet` running in GitHub Actions.
 
-### <h3>`{ stack }`</h3>
+### `{ stack }`
 
-<table>
+<table cellpadding="3" cellspacing="0">
   <tr>
     <td><b>Backend</b></td>
-    <td>
+    <td style="line-height: 0;">
       <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
       <img alt="Gin" src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white" />
       <img alt="Gorilla Mux" src="https://img.shields.io/badge/Gorilla_Mux-475569?style=flat-square" />
@@ -34,7 +36,7 @@ On my own projects I write backends in **Go** and frontends in **React** and **N
   </tr>
   <tr>
     <td><b>APIs &amp; realtime</b></td>
-    <td>
+    <td style="line-height: 0;">
       <img alt="REST API" src="https://img.shields.io/badge/REST_API-475569?style=flat-square" />
       <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-475569?style=flat-square" />
       <img alt="JWT" src="https://img.shields.io/badge/JWT-D63AFF?style=flat-square&logo=jsonwebtokens&logoColor=white" />
@@ -43,14 +45,14 @@ On my own projects I write backends in **Go** and frontends in **React** and **N
   </tr>
   <tr>
     <td><b>Databases</b></td>
-    <td>
+    <td style="line-height: 0;">
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td>
+    <td style="line-height: 0;">
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -58,7 +60,7 @@ On my own projects I write backends in **Go** and frontends in **React** and **N
   </tr>
   <tr>
     <td><b>Tooling</b></td>
-    <td>
+    <td style="line-height: 0;">
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img alt="Docker Compose" src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
@@ -67,7 +69,7 @@ On my own projects I write backends in **Go** and frontends in **React** and **N
   </tr>
 </table>
 
-### <h3>`{ projects }`</h3>
+### `{ projects }`
 
 <table>
 <tr>
@@ -227,7 +229,7 @@ database/migrations/                        create_wisata_table
 </tr>
 </table>
 
-### <h3>`{ connect }`</h3>
+### `{ connect }`
 
 <p align="center">
   <a href="https://firman-aprilian.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-00ADD8?style=for-the-badge" /></a>
