@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img" aria-labelledby="t d">
+<title id="t">Tourism Management API: layers</title>
+<desc id="d">Step 1: the React 17 app in resources/js/wisata (list, detail, add and edit pages, React Router, Axios). Step 2: the Laravel 8 REST API in routes/api.php with WisataController for CRUD, validation and image upload. Step 3: Eloquent through WisataModel (table wisata), with API Resources shaping the JSON. Step 4: MySQL stores the records and the public disk stores the uploaded photos.</desc>
+<rect x="10" y="10" width="580" height="48" rx="2" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.2"/>
+<circle cx="34" cy="34" r="9" fill="#ffffff" stroke="#666666" stroke-width="1.2"/><text x="34" y="38" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f1f1f">1</text>
+<text x="56" y="30" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">React 17</text>
+<text x="210" y="30" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve"><tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">resources/js/wisata</tspan></text>
+<text x="56" y="47" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">list, detail, add and edit pages; React Router, Axios</text>
+<rect x="10" y="64" width="580" height="48" rx="2" fill="#f8cecc" stroke="#b85450" stroke-width="1.2"/>
+<circle cx="34" cy="88" r="9" fill="#ffffff" stroke="#666666" stroke-width="1.2"/><text x="34" y="92" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f1f1f">2</text>
+<text x="56" y="84" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">REST API</text>
+<text x="210" y="84" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve"><tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">routes/api.php</tspan></text>
+<text x="56" y="101" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">WisataController: CRUD, validation, image upload</text>
+<rect x="10" y="118" width="580" height="48" rx="2" fill="#fff2cc" stroke="#d6b656" stroke-width="1.2"/>
+<circle cx="34" cy="142" r="9" fill="#ffffff" stroke="#666666" stroke-width="1.2"/><text x="34" y="146" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f1f1f">3</text>
+<text x="56" y="138" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">Eloquent</text>
+<text x="210" y="138" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve"><tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">app/Models/WisataModel.php</tspan></text>
+<text x="56" y="155" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">table <tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">wisata</tspan>; API Resources shape the JSON</text>
+<rect x="10" y="172" width="287" height="48" rx="2" fill="#e1d5e7" stroke="#9673a6" stroke-width="1.2"/>
+<circle cx="34" cy="196" r="9" fill="#ffffff" stroke="#666666" stroke-width="1.2"/><text x="34" y="200" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f1f1f">4</text>
+<text x="56" y="192" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">MySQL</text>
+<text x="140" y="192" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve"><tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">wisata</tspan></text>
+<text x="56" y="209" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">nama_wisata, deskripsi, foto</text>
+<rect x="303" y="172" width="287" height="48" rx="2" fill="#d5e8d4" stroke="#82b366" stroke-width="1.2"/>
+<text x="317" y="192" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">Public disk</text>
+<text x="433" y="192" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve"><tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">images/</tspan></text>
+<text x="317" y="209" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">uploaded photos</text>
+</svg>

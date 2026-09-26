@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="246" viewBox="0 0 800 246" role="img" aria-labelledby="t d">
+<title id="t">Disbursement request lifecycle</title>
+<desc id="d">Step 1: POST /api/disbursements creates a request; the amount is validated and an admin fee is applied by amount tier. Step 2: the request is PENDING and can also be deleted. Step 3: only an admin can set it to APPROVED or REJECTED with PATCH /api/disbursements/:id/status. Both are final states; processing a request twice returns 409 Conflict.</desc>
+<path d="M220,130 H278" fill="none" stroke="#666666" stroke-width="1.5"/>
+<path d="M428,130 H464 V70 H500" fill="none" stroke="#666666" stroke-width="1.5"/>
+<path d="M428,130 H464 V190 H500" fill="none" stroke="#666666" stroke-width="1.5"/>
+<rect x="10" y="88" width="210" height="84" rx="2" fill="#f5f5f5" stroke="#666666" stroke-width="1.2"/>
+<text x="22" y="108" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">Create request</text>
+<circle cx="32" cy="129" r="9" fill="#ffffff" stroke="#666666" stroke-width="1.2"/><text x="32" y="133" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f1f1f">1</text>
+<text x="48" y="133" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#1f1f1f" text-anchor="start" xml:space="preserve"><tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">POST /api/disbursements</tspan></text>
+<text x="22" y="152" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">amount validated,</text>
+<text x="22" y="166" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">admin fee by amount tier</text>
+<rect x="278" y="88" width="150" height="84" rx="2" fill="#fff2cc" stroke="#d6b656" stroke-width="1.2"/>
+<text x="290" y="108" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">PENDING</text>
+<circle cx="300" cy="129" r="9" fill="#ffffff" stroke="#666666" stroke-width="1.2"/><text x="300" y="133" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f1f1f">2</text>
+<text x="316" y="133" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#1f1f1f" text-anchor="start" xml:space="preserve">awaiting admin</text>
+<text x="290" y="152" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">can also be deleted</text>
+<rect x="500" y="28" width="290" height="84" rx="2" fill="#d5e8d4" stroke="#82b366" stroke-width="1.2"/>
+<text x="512" y="48" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">APPROVED</text>
+<circle cx="522" cy="69" r="9" fill="#ffffff" stroke="#666666" stroke-width="1.2"/><text x="522" y="73" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f1f1f">3</text>
+<text x="538" y="73" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#1f1f1f" text-anchor="start" xml:space="preserve"><tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">PATCH /api/disbursements/:id/status</tspan></text>
+<text x="512" y="92" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">admin only. Final: cannot be processed again</text>
+<rect x="500" y="148" width="290" height="84" rx="2" fill="#f8cecc" stroke="#b85450" stroke-width="1.2"/>
+<text x="512" y="168" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">REJECTED</text>
+<circle cx="522" cy="189" r="9" fill="#ffffff" stroke="#666666" stroke-width="1.2"/><text x="522" y="193" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f1f1f">3</text>
+<text x="538" y="193" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#1f1f1f" text-anchor="start" xml:space="preserve"><tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">PATCH /api/disbursements/:id/status</tspan></text>
+<text x="512" y="212" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">admin only. Final: cannot be processed again</text>
+<rect x="10" y="196" width="410" height="38" rx="2" fill="#f5f5f5" stroke="#666666" stroke-width="1.2" stroke-dasharray="5 4"/>
+<text x="22" y="220" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#1f1f1f" text-anchor="start" xml:space="preserve">Processed twice? The second PATCH returns <tspan font-weight="700">409 Conflict</tspan></text>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="338" viewBox="0 0 600 338" role="img" aria-labelledby="t d">
+<title id="t">Manufacture System API: request path through the layers</title>
+<desc id="d">Step 1: the client sends REST and JSON with the JWT in the token header. Step 2: Gorilla Mux routes the request (app/routes). Step 3: the middleware checks the JWT (HS256) on every /api route (app/middleware). Step 4: a controller per domain handles it (auth, user, customer, supplier, product, purchase). Step 5: models and helpers run the queries. Step 6: MySQL through database/sql and go-sql-driver.</desc>
+<rect x="10" y="10" width="580" height="48" rx="2" fill="#f5f5f5" stroke="#666666" stroke-width="1.2"/>
+<circle cx="34" cy="34" r="9" fill="#ffffff" stroke="#666666" stroke-width="1.2"/><text x="34" y="38" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f1f1f">1</text>
+<text x="56" y="30" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">Client</text>
+<text x="56" y="47" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">REST + JSON, JWT in the <tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">token</tspan> header (Bearer)</text>
+<rect x="10" y="64" width="580" height="48" rx="2" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.2"/>
+<circle cx="34" cy="88" r="9" fill="#ffffff" stroke="#666666" stroke-width="1.2"/><text x="34" y="92" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f1f1f">2</text>
+<text x="56" y="84" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">Router</text>
+<text x="210" y="84" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve"><tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">app/routes</tspan></text>
+<text x="56" y="101" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">Gorilla Mux routes, CORS via Gorilla Handlers</text>
+<rect x="10" y="118" width="580" height="48" rx="2" fill="#fff2cc" stroke="#d6b656" stroke-width="1.2"/>
+<circle cx="34" cy="142" r="9" fill="#ffffff" stroke="#666666" stroke-width="1.2"/><text x="34" y="146" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f1f1f">3</text>
+<text x="56" y="138" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">Auth</text>
+<text x="210" y="138" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve"><tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">app/middleware</tspan></text>
+<text x="56" y="155" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">checks the JWT (HS256) on every <tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">/api</tspan> route</text>
+<rect x="10" y="172" width="580" height="48" rx="2" fill="#d5e8d4" stroke="#82b366" stroke-width="1.2"/>
+<circle cx="34" cy="196" r="9" fill="#ffffff" stroke="#666666" stroke-width="1.2"/><text x="34" y="200" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f1f1f">4</text>
+<text x="56" y="192" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">Controllers</text>
+<text x="210" y="192" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve"><tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">app/controllers/&lt;domain&gt;</tspan></text>
+<text x="56" y="209" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">auth, user, customer, supplier, product, purchase</text>
+<rect x="10" y="226" width="580" height="48" rx="2" fill="#ffe6cc" stroke="#d79b00" stroke-width="1.2"/>
+<circle cx="34" cy="250" r="9" fill="#ffffff" stroke="#666666" stroke-width="1.2"/><text x="34" y="254" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f1f1f">5</text>
+<text x="56" y="246" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">Models, helpers</text>
+<text x="210" y="246" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve"><tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">app/models, app/helpers</tspan></text>
+<text x="56" y="263" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">queries, JWT helper, JSON responses</text>
+<rect x="10" y="280" width="580" height="48" rx="2" fill="#e1d5e7" stroke="#9673a6" stroke-width="1.2"/>
+<circle cx="34" cy="304" r="9" fill="#ffffff" stroke="#666666" stroke-width="1.2"/><text x="34" y="308" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f1f1f">6</text>
+<text x="56" y="300" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f1f1f" text-anchor="start" xml:space="preserve">MySQL</text>
+<text x="210" y="300" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve"><tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">app/helpers/database.go</tspan></text>
+<text x="56" y="317" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#4a4a4a" text-anchor="start" xml:space="preserve">database/sql with <tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">go-sql-driver/mysql</tspan></text>
+</svg>
