@@ -241,7 +241,7 @@ database/migrations/                        create_wisata_table
 
 <p align="center">
   <a href="https://firman-aprilian.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-00ADD8?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/firman-aprilian-sugiharto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/firman-aprilian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" /></a>
   <a href="mailto:firman.apriliann@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge" /></a>
   <a href="https://wa.me/6285117000255"><img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge" /></a>
 </p>
